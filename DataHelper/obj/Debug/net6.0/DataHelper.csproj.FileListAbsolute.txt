@@ -1,0 +1,12 @@
+C:\Users\andje\source\repos\Zadatak3Api\DataHelper\bin\Debug\net6.0\DataHelper.deps.json
+C:\Users\andje\source\repos\Zadatak3Api\DataHelper\bin\Debug\net6.0\DataHelper.dll
+C:\Users\andje\source\repos\Zadatak3Api\DataHelper\bin\Debug\net6.0\DataHelper.pdb
+C:\Users\andje\source\repos\Zadatak3Api\DataHelper\obj\Debug\net6.0\DataHelper.csproj.AssemblyReference.cache
+C:\Users\andje\source\repos\Zadatak3Api\DataHelper\obj\Debug\net6.0\DataHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andje\source\repos\Zadatak3Api\DataHelper\obj\Debug\net6.0\DataHelper.AssemblyInfoInputs.cache
+C:\Users\andje\source\repos\Zadatak3Api\DataHelper\obj\Debug\net6.0\DataHelper.AssemblyInfo.cs
+C:\Users\andje\source\repos\Zadatak3Api\DataHelper\obj\Debug\net6.0\DataHelper.csproj.CoreCompileInputs.cache
+C:\Users\andje\source\repos\Zadatak3Api\DataHelper\obj\Debug\net6.0\DataHelper.dll
+C:\Users\andje\source\repos\Zadatak3Api\DataHelper\obj\Debug\net6.0\refint\DataHelper.dll
+C:\Users\andje\source\repos\Zadatak3Api\DataHelper\obj\Debug\net6.0\DataHelper.pdb
+C:\Users\andje\source\repos\Zadatak3Api\DataHelper\obj\Debug\net6.0\ref\DataHelper.dll
